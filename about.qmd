@@ -1,0 +1,16 @@
+---
+title: "Michael McCloud"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+My name is Michael McCloud. I am currently attending Virginia Tech and participating in their graduate Statistics Ph.D program. 
